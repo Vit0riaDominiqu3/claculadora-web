@@ -1,0 +1,40 @@
+body{
+    background-color: #f1eded;
+    text-align: center;
+}
+
+.btn{
+    width: 250px;
+    color: #ffffff;
+    border: none;
+    padding: 10px 24px;;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    background-color: white;
+  color: black;
+  border: 2px solid #dbdbdb
+}
+
+#op{
+    background-color: #32CD32;
+    top: 230px;
+}
+
+#potencia{
+    background-color: #FFD700;
+}
+
+#raiz{
+    background-color: #FF8C00; 
+}
+
+#area{
+    background-color: #DC143C;
+}
+
+#bhaskara{
+    background-color: #C71585;
+}
