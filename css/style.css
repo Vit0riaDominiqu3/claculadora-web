@@ -34,57 +34,164 @@ body{
 }
 
 .fundo2{
+
     box-sizing: border-box;
     border-radius: 5px;
     position: absolute;
-    width: 30%;
+    width: 40%;
     height: 50%;
-    left: 35%;
-    top: 50px;
+    left: 30%;
+    top: 150px;
     background: #ffffff;
     text-align: center;
+    border-style:groove;
+    border-color: #b3ff5d;
 }
-.opresultado{
-    border: 2px solid red;
-    border-radius: 5px;
+
+.basica{
+    background-color: #f1eded;
+    text-align: center;
 }
+
+.bt2{
+    width: 120px;
+    text-align: center;
+    border-color: #32CD32;
+}
+
+.text2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
 
 #potencia{
     background-color: #FFD700;
 
 }
-
-#raiz{
-    background-color: #FF8C00; 
+.pot{
+    background-color: #f1eded;
+    text-align: center;
+    
 }
+.fundo3{
+    box-sizing: border-box;
+    border-radius: 5px;
+    position: absolute;
+    width: 40%;
+    height: 50%;
+    left: 30%;
+    top: 150px;
+    background: #ffffff;
+    text-align: center;
+    border-style:groove;
+    border-color: #FFD700;
+}
+.bt3{
+    width: 120px;
+    text-align: center;
+    border-color: #FFD700;
+}
+
+
+.rz{
+    background-color: #f1eded;
+    text-align: center;
+}
+
+.fundo4{
+    box-sizing: border-box;
+    border-radius: 5px;
+    position: absolute;
+    width: 40%;
+    height: 50%;
+    left: 30%;
+    top: 150px;
+    background: #ffffff;
+    text-align: center;
+    border-style:groove;
+    border-color: #FF8C00;
+}
+
+.bt4{
+    width: 120px;
+    text-align: center;
+    border-color: #FF8C00;
+}
+
+.raiztext{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#raizz{
+    background-color: #FF8C00;
+}
+
+
 
 #area{
     background-color: #DC143C;
 }
 
+.ar{
+    background-color: #f1eded;
+    text-align: center;
+}
+
+.fundo5{
+    box-sizing: border-box;
+    border-radius: 5px;
+    position: absolute;
+    width: 40%;
+    height: 50%;
+    left: 30%;
+    top: 150px;
+    background: #ffffff;
+    text-align: center;
+    border-style:groove;
+    border-color: #DC143C;
+}
+
+.areatext{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  
+}
+
+.bt5{
+    width: 190px;
+    text-align: center;
+    border-color: #DC143C;
+}
+
+
 #bhaskara{
     background-color: #C71585;
 }
 
-
-
-.basica{
-    background-color: #88f188;
-    text-align: center;
-
-}
-.pot{
-    background-color: #ffe54f;
-}
-
-.rz{
-    background-color: #ffb451;
-}
-
-.ar{
-    background-color: #df5873;
-}
-
 .bhas{
-    background-color: #e769b9;
+    background-color: #f1eded;
+    text-align: center;
+}
+
+.fundo6{
+    box-sizing: border-box;
+    border-radius: 5px;
+    position: absolute;
+    width: 40%;
+    height: 50%;
+    left: 30%;
+    top: 150px;
+    background: #ffffff;
+    text-align: center;
+    border-style:groove;
+    border-color: #C71585;
+}
+
+.bt6{
+    width: 190px;
+    text-align: center;
+    border-color: #C71585;
+}
+
+.bhastext{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  
 }
